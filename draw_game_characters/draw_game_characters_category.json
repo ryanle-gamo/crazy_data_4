@@ -1,9 +1,9 @@
 {
     "categories": [{
                    "category_id": "1400",
-                   "category_name": "Subway Surfers 138",
+                   "category_name": "Subway Surfers",
                    "category_thumbnail": "1400.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -121,9 +121,9 @@
                               }]
                    }, {
                    "category_id": "1401",
-                   "category_name": "Plants vs Zombies 133",
+                   "category_name": "Plants vs Zombies",
                    "category_thumbnail": "1401.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -209,9 +209,9 @@
                               }]
                    }, {
                    "category_id": "1402",
-                   "category_name": "League of Legends 18",
+                   "category_name": "League of Legends",
                    "category_thumbnail": "1402.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -337,9 +337,9 @@
                               }]
                    }, {
                    "category_id": "1403",
-                   "category_name": "Fallout 4 238",
+                   "category_name": "Fallout 4",
                    "category_thumbnail": "1403.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -409,9 +409,9 @@
                               }]
                    }, {
                    "category_id": "1404",
-                   "category_name": "Littlest Pet Shop 122",
+                   "category_name": "Littlest Pet Shop",
                    "category_thumbnail": "1404.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -509,9 +509,9 @@
                               }]
                    }, {
                    "category_id": "1405",
-                   "category_name": "Mortal Kombat 144",
+                   "category_name": "Mortal Kombat",
                    "category_thumbnail": "1405.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -561,9 +561,9 @@
                               }]
                    }, {
                    "category_id": "1406",
-                   "category_name": "Five Nights at Freddy’s 241",
+                   "category_name": "Five Nights at Freddy’s",
                    "category_thumbnail": "1406.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -609,9 +609,9 @@
                               }]
                    }, {
                    "category_id": "1407",
-                   "category_name": "My Singing Monster 128",
+                   "category_name": "My Singing Monster",
                    "category_thumbnail": "1407.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -685,17 +685,121 @@
                               }]
                    }, {
                    "category_id": "1408",
-                   "category_name": "Minecraft 59",
+                   "category_name": "Minecraft",
                    "category_thumbnail": "1408.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
-                   "animes": []
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Cake",
+                              "anime_step": 5
+                              }, {
+                              "anime_id": "2",
+                              "anime_name": "Ghast",
+                              "anime_step": 6
+                              }, {
+                              "anime_id": "3",
+                              "anime_name": "Creeper",
+                              "anime_step": 7
+                              }, {
+                              "anime_id": "4",
+                              "anime_name": "Enderman",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "5",
+                              "anime_name": "Steve",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "6",
+                              "anime_name": "Zombie",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "7",
+                              "anime_name": "Herobrine",
+                              "anime_step": 7
+                              }, {
+                              "anime_id": "8",
+                              "anime_name": "Chicken",
+                              "anime_step": 7
+                              }, {
+                              "anime_id": "9",
+                              "anime_name": "Sheep",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "10",
+                              "anime_name": "Whithers",
+                              "anime_step": 7
+                              }, {
+                              "anime_id": "11",
+                              "anime_name": "Pig",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "12",
+                              "anime_name": "Wolf",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "13",
+                              "anime_name": "Cow",
+                              "anime_step": 6
+                              }, {
+                              "anime_id": "14",
+                              "anime_name": "Skeleton",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "15",
+                              "anime_name": "Spider",
+                              "anime_step": 7
+                              }, {
+                              "anime_id": "16",
+                              "anime_name": "Octopus",
+                              "anime_step": 7
+                              }, {
+                              "anime_id": "17",
+                              "anime_name": "Slime",
+                              "anime_step": 6
+                              }, {
+                              "anime_id": "18",
+                              "anime_name": "Snow Golem",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "19",
+                              "anime_name": "Blaze",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "20",
+                              "anime_name": "Cat",
+                              "anime_step": 10
+                              }, {
+                              "anime_id": "21",
+                              "anime_name": "Bat",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "22",
+                              "anime_name": "Ender Dragon",
+                              "anime_step": 13
+                              }, {
+                              "anime_id": "23",
+                              "anime_name": "Horse",
+                              "anime_step": 11
+                              }, {
+                              "anime_id": "24",
+                              "anime_name": "Iron Golem",
+                              "anime_step": 11
+                              }, {
+                              "anime_id": "25",
+                              "anime_name": "Ocelot",
+                              "anime_step": 10
+                              }, {
+                              "anime_id": "26",
+                              "anime_name": "Witch",
+                              "anime_step": 11
+                              }]
                    }, {
                    "category_id": "1409",
-                   "category_name": "Pixel Minecraft 199",
+                   "category_name": "Pixel Minecraft",
                    "category_thumbnail": "1409.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -781,9 +885,9 @@
                               }]
                    }, {
                    "category_id": "1410",
-                   "category_name": "Angry Birds 228",
+                   "category_name": "Angry Birds",
                    "category_thumbnail": "1410.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -941,9 +1045,9 @@
                               }]
                    }, {
                    "category_id": "1411",
-                   "category_name": "Dota 219",
+                   "category_name": "Dota",
                    "category_thumbnail": "1411.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -1029,9 +1133,9 @@
                               }]
                    }, {
                    "category_id": "1412",
-                   "category_name": "Final Fantasy 201",
+                   "category_name": "Final Fantasy",
                    "category_thumbnail": "1412.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -1137,9 +1241,9 @@
                               }]
                    }, {
                    "category_id": "1413",
-                   "category_name": "Warcraft 231",
+                   "category_name": "Warcraft",
                    "category_thumbnail": "1413.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -1205,9 +1309,9 @@
                               }]
                    }, {
                    "category_id": "1414",
-                   "category_name": "Hay Day 115",
+                   "category_name": "Hay Day",
                    "category_thumbnail": "1414.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -1293,9 +1397,9 @@
                               }]
                    }, {
                    "category_id": "1415",
-                   "category_name": "Boom Beach 159",
+                   "category_name": "Boom Beach",
                    "category_thumbnail": "1415.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -1341,9 +1445,9 @@
                               }]
                    }, {
                    "category_id": "1416",
-                   "category_name": "Clash of Clans 106",
+                   "category_name": "Clash of Clans",
                    "category_thumbnail": "1416.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -1417,9 +1521,9 @@
                               }]
                    }, {
                    "category_id": "1417",
-                   "category_name": "Candy Crush 103",
+                   "category_name": "Candy Crush",
                    "category_thumbnail": "1417.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -1505,9 +1609,9 @@
                               }]
                    }, {
                    "category_id": "1418",
-                   "category_name": "Farm Heroes Saga 162",
+                   "category_name": "Farm Heroes Saga",
                    "category_thumbnail": "1418.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -1569,9 +1673,9 @@
                               }]
                    }, {
                    "category_id": "1419",
-                   "category_name": "Temple Run 139",
+                   "category_name": "Temple Run",
                    "category_thumbnail": "1419.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -1625,9 +1729,9 @@
                               }]
                    }, {
                    "category_id": "1420",
-                   "category_name": "GTA 114",
+                   "category_name": "GTA",
                    "category_thumbnail": "1420.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -1693,9 +1797,9 @@
                               }]
                    }, {
                    "category_id": "1421",
-                   "category_name": "Pixel Cartoons 192",
+                   "category_name": "Pixel Cartoons",
                    "category_thumbnail": "1421.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -1781,9 +1885,9 @@
                               }]
                    }, {
                    "category_id": "1422",
-                   "category_name": "Pixel Superheroes 204",
+                   "category_name": "Pixel Superheroes",
                    "category_thumbnail": "1422.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{

@@ -1,9 +1,9 @@
 {
     "categories": [{
                    "category_id": "1400",
-                   "category_name": "Subway Surfers 138",
+                   "category_name": "Subway Surfers",
                    "category_thumbnail": "1400.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -121,9 +121,9 @@
                               }]
                    }, {
                    "category_id": "1401",
-                   "category_name": "Plants vs Zombies 133",
+                   "category_name": "Plants vs Zombies",
                    "category_thumbnail": "1401.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -209,9 +209,9 @@
                               }]
                    }, {
                    "category_id": "1402",
-                   "category_name": "League of Legends 18",
+                   "category_name": "League of Legends",
                    "category_thumbnail": "1402.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -337,9 +337,9 @@
                               }]
                    }, {
                    "category_id": "1403",
-                   "category_name": "Fallout 4 238",
+                   "category_name": "Fallout 4",
                    "category_thumbnail": "1403.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -409,9 +409,9 @@
                               }]
                    }, {
                    "category_id": "1404",
-                   "category_name": "Littlest Pet Shop 122",
+                   "category_name": "Littlest Pet Shop",
                    "category_thumbnail": "1404.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -509,9 +509,9 @@
                               }]
                    }, {
                    "category_id": "1405",
-                   "category_name": "Mortal Kombat 144",
+                   "category_name": "Mortal Kombat",
                    "category_thumbnail": "1405.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -561,9 +561,9 @@
                               }]
                    }, {
                    "category_id": "1406",
-                   "category_name": "Five Nights at Freddy’s 241",
+                   "category_name": "Five Nights at Freddy’s",
                    "category_thumbnail": "1406.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -609,9 +609,9 @@
                               }]
                    }, {
                    "category_id": "1407",
-                   "category_name": "My Singing Monster 128",
+                   "category_name": "My Singing Monster",
                    "category_thumbnail": "1407.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -684,266 +684,10 @@
                               "anime_step": 11
                               }]
                    }, {
-                   "category_id": "1408",
-                   "category_name": "Minecraft 59",
-                   "category_thumbnail": "1408.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": []
-                   }, {
-                   "category_id": "1409",
-                   "category_name": "Pixel Minecraft 199",
-                   "category_thumbnail": "1409.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "1",
-                              "anime_name": "Creeper",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "2",
-                              "anime_name": "Creeper Chibi",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "3",
-                              "anime_name": "Creeper Face",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "4",
-                              "anime_name": "Steve",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "5",
-                              "anime_name": "Enderman",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "6",
-                              "anime_name": "Enderman Face",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "7",
-                              "anime_name": "Zombie",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "8",
-                              "anime_name": "Skeleton",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "9",
-                              "anime_name": "Ghast",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "10",
-                              "anime_name": "Wither",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "11",
-                              "anime_name": "Squid",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "12",
-                              "anime_name": "Zombie Pigman",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "13",
-                              "anime_name": "Blaze",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "14",
-                              "anime_name": "Whitch",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "15",
-                              "anime_name": "Dirt Block",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "16",
-                              "anime_name": "Pig Face",
-                              "anime_step": 4
-                              }, {
-                              "anime_id": "17",
-                              "anime_name": "Horse Face",
-                              "anime_step": 5
-                              }, {
-                              "anime_id": "18",
-                              "anime_name": "Sheep Face",
-                              "anime_step": 5
-                              }, {
-                              "anime_id": "19",
-                              "anime_name": "Sword",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "20",
-                              "anime_name": "Axa",
-                              "anime_step": 6
-                              }]
-                   }, {
-                   "category_id": "1410",
-                   "category_name": "Angry Birds 228",
-                   "category_thumbnail": "1410.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "1",
-                              "anime_name": "Big Brother",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "2",
-                              "anime_name": "Black Bird",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "3",
-                              "anime_name": "Blue Bird",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "4",
-                              "anime_name": "Boomerang Bird",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "5",
-                              "anime_name": "Carwood",
-                              "anime_step": 13
-                              }, {
-                              "anime_id": "6",
-                              "anime_name": "Chewbacca",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "7",
-                              "anime_name": "Han Solo",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "8",
-                              "anime_name": "Hockey Bird",
-                              "anime_step": 10
-                              }, {
-                              "anime_id": "9",
-                              "anime_name": "Ice Bird",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "10",
-                              "anime_name": "Jewel",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "11",
-                              "anime_name": "King Pig",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "12",
-                              "anime_name": "Luke Skywalker",
-                              "anime_step": 10
-                              }, {
-                              "anime_id": "13",
-                              "anime_name": "Mighty Dragon",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "14",
-                              "anime_name": "Mighty Eagle",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "15",
-                              "anime_name": "Nighty Philadelphia Eagle",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "16",
-                              "anime_name": "Mustache Pig",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "17",
-                              "anime_name": "Orange Bird",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "18",
-                              "anime_name": "Parallax Car",
-                              "anime_step": 10
-                              }, {
-                              "anime_id": "19",
-                              "anime_name": "Pink Bird",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "20",
-                              "anime_name": "Princess Leia",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "21",
-                              "anime_name": "Queen Pig",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "22",
-                              "anime_name": "Red Bird",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "23",
-                              "anime_name": "Silver Bird",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "24",
-                              "anime_name": "Space Eagle",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "25",
-                              "anime_name": "Space Egg",
-                              "anime_step": 5
-                              }, {
-                              "anime_id": "26",
-                              "anime_name": "Terence the Hunter",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "27",
-                              "anime_name": "The Lightning Bird",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "28",
-                              "anime_name": "The Santa Bomb Bird",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "29",
-                              "anime_name": "White Bird",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "30",
-                              "anime_name": "Yellow Bird",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "31",
-                              "anime_name": "Red",
-                              "anime_step": 10
-                              }, {
-                              "anime_id": "32",
-                              "anime_name": "Chuck",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "33",
-                              "anime_name": "Bomb",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "34",
-                              "anime_name": "Leonard",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "35",
-                              "anime_name": "Matilda",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "36",
-                              "anime_name": "Mighty Eagle",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "37",
-                              "anime_name": "Stella",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "38",
-                              "anime_name": "Chef Pig",
-                              "anime_step": 12
-                              }]
-                   }, {
                    "category_id": "1411",
-                   "category_name": "Dota 219",
+                   "category_name": "Dota",
                    "category_thumbnail": "1411.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -1028,550 +772,10 @@
                               "anime_step": 17
                               }]
                    }, {
-                   "category_id": "1412",
-                   "category_name": "Final Fantasy 201",
-                   "category_thumbnail": "1412.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "1",
-                              "anime_name": "Aerith",
-                              "anime_step": 15
-                              }, {
-                              "anime_id": "2",
-                              "anime_name": "Auron",
-                              "anime_step": 16
-                              }, {
-                              "anime_id": "3",
-                              "anime_name": "Cloud Chibi",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "4",
-                              "anime_name": "Cloud Portrait",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "5",
-                              "anime_name": "Cloud Strife",
-                              "anime_step": 16
-                              }, {
-                              "anime_id": "6",
-                              "anime_name": "Freya Crescent",
-                              "anime_step": 14
-                              }, {
-                              "anime_id": "7",
-                              "anime_name": "Kefka",
-                              "anime_step": 15
-                              }, {
-                              "anime_id": "8",
-                              "anime_name": "Kuja",
-                              "anime_step": 17
-                              }, {
-                              "anime_id": "9",
-                              "anime_name": "Lightning",
-                              "anime_step": 21
-                              }, {
-                              "anime_id": "10",
-                              "anime_name": "Lulu",
-                              "anime_step": 19
-                              }, {
-                              "anime_id": "11",
-                              "anime_name": "Rikku",
-                              "anime_step": 16
-                              }, {
-                              "anime_id": "12",
-                              "anime_name": "Sephiroth Chibi",
-                              "anime_step": 16
-                              }, {
-                              "anime_id": "13",
-                              "anime_name": "Sephiroth Portrait",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "14",
-                              "anime_name": "Sephiroth",
-                              "anime_step": 16
-                              }, {
-                              "anime_id": "15",
-                              "anime_name": "Squall Leonhart",
-                              "anime_step": 16
-                              }, {
-                              "anime_id": "16",
-                              "anime_name": "Tidus",
-                              "anime_step": 17
-                              }, {
-                              "anime_id": "17",
-                              "anime_name": "Tifa Chibi",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "18",
-                              "anime_name": "Tifa",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "19",
-                              "anime_name": "Vincent Chibi",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "20",
-                              "anime_name": "Vincent Portrait",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "21",
-                              "anime_name": "Vincent Valentine",
-                              "anime_step": 17
-                              }, {
-                              "anime_id": "22",
-                              "anime_name": "Vivi Chibi",
-                              "anime_step": 13
-                              }, {
-                              "anime_id": "23",
-                              "anime_name": "Vivi Ornitier",
-                              "anime_step": 13
-                              }, {
-                              "anime_id": "24",
-                              "anime_name": "Zack",
-                              "anime_step": 15
-                              }, {
-                              "anime_id": "25",
-                              "anime_name": "Zidane",
-                              "anime_step": 18
-                              }]
-                   }, {
-                   "category_id": "1413",
-                   "category_name": "Warcraft 231",
-                   "category_thumbnail": "1413.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "1",
-                              "anime_name": "Durotan",
-                              "anime_step": 14
-                              }, {
-                              "anime_id": "2",
-                              "anime_name": "Andulin Lothar",
-                              "anime_step": 15
-                              }, {
-                              "anime_id": "3",
-                              "anime_name": "Medivh",
-                              "anime_step": 14
-                              }, {
-                              "anime_id": "4",
-                              "anime_name": "Guldan",
-                              "anime_step": 14
-                              }, {
-                              "anime_id": "5",
-                              "anime_name": "Varian Wrynn",
-                              "anime_step": 16
-                              }, {
-                              "anime_id": "6",
-                              "anime_name": "Warchief Thrall",
-                              "anime_step": 16
-                              }, {
-                              "anime_id": "7",
-                              "anime_name": "Illidan",
-                              "anime_step": 14
-                              }, {
-                              "anime_id": "8",
-                              "anime_name": "Lord Archimonde",
-                              "anime_step": 14
-                              }, {
-                              "anime_id": "9",
-                              "anime_name": "Sylvanus Windrunner",
-                              "anime_step": 17
-                              }, {
-                              "anime_id": "10",
-                              "anime_name": "Arthas",
-                              "anime_step": 14
-                              }, {
-                              "anime_id": "11",
-                              "anime_name": "Tyranda Wisperwind",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "12",
-                              "anime_name": "Malfurion Stormrage",
-                              "anime_step": 17
-                              }, {
-                              "anime_id": "13",
-                              "anime_name": "Baine Bloodhoof",
-                              "anime_step": 19
-                              }, {
-                              "anime_id": "14",
-                              "anime_name": "Grom Hellscream",
-                              "anime_step": 14
-                              }, {
-                              "anime_id": "15",
-                              "anime_name": "Jaine Prounmoon",
-                              "anime_step": 13
-                              }]
-                   }, {
-                   "category_id": "1414",
-                   "category_name": "Hay Day 115",
-                   "category_thumbnail": "1414.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "1",
-                              "anime_name": "Grey Donkey",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "2",
-                              "anime_name": "Andalusian Horse",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "3",
-                              "anime_name": "Barn",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "4",
-                              "anime_name": "Sheep",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "5",
-                              "anime_name": "Chicken",
-                              "anime_step": 10
-                              }, {
-                              "anime_id": "6",
-                              "anime_name": "Cow",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "7",
-                              "anime_name": "Goat",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "8",
-                              "anime_name": "Lobster",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "9",
-                              "anime_name": "Palomino Horse",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "10",
-                              "anime_name": "Pig",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "11",
-                              "anime_name": "Dog",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "12",
-                              "anime_name": "Cat",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "13",
-                              "anime_name": "Greg",
-                              "anime_step": 13
-                              }, {
-                              "anime_id": "14",
-                              "anime_name": "Joan",
-                              "anime_step": 13
-                              }, {
-                              "anime_id": "15",
-                              "anime_name": "Betty",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "16",
-                              "anime_name": "Mike",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "17",
-                              "anime_name": "Fish",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "18",
-                              "anime_name": "Sheep Grown Up",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "19",
-                              "anime_name": "Tom",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "20",
-                              "anime_name": "Cow Milky",
-                              "anime_step": 12
-                              }]
-                   }, {
-                   "category_id": "1415",
-                   "category_name": "Boom Beach 159",
-                   "category_thumbnail": "1415.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "1",
-                              "anime_name": "Rifleman",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "2",
-                              "anime_name": "Heavy",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "3",
-                              "anime_name": "Zooka",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "4",
-                              "anime_name": "Warrior",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "5",
-                              "anime_name": "Tank",
-                              "anime_step": 15
-                              }, {
-                              "anime_id": "6",
-                              "anime_name": "Grenadier",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "7",
-                              "anime_name": "Hammerman",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "8",
-                              "anime_name": "Dr. Terror",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "9",
-                              "anime_name": "Boom Cannon",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "10",
-                              "anime_name": "Sniper Tower",
-                              "anime_step": 9
-                              }]
-                   }, {
-                   "category_id": "1416",
-                   "category_name": "Clash of Clans 106",
-                   "category_thumbnail": "1416.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "1",
-                              "anime_name": "Barbarian",
-                              "anime_step": 15
-                              }, {
-                              "anime_id": "2",
-                              "anime_name": "Archer",
-                              "anime_step": 17
-                              }, {
-                              "anime_id": "3",
-                              "anime_name": "Goblin",
-                              "anime_step": 14
-                              }, {
-                              "anime_id": "4",
-                              "anime_name": "Giant",
-                              "anime_step": 15
-                              }, {
-                              "anime_id": "5",
-                              "anime_name": "Wall Breaker",
-                              "anime_step": 16
-                              }, {
-                              "anime_id": "6",
-                              "anime_name": "Wizart",
-                              "anime_step": 16
-                              }, {
-                              "anime_id": "7",
-                              "anime_name": "Healer",
-                              "anime_step": 13
-                              }, {
-                              "anime_id": "8",
-                              "anime_name": "Dragon",
-                              "anime_step": 16
-                              }, {
-                              "anime_id": "9",
-                              "anime_name": "Minion",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "10",
-                              "anime_name": "Hog Rider",
-                              "anime_step": 18
-                              }, {
-                              "anime_id": "11",
-                              "anime_name": "Valkyrie",
-                              "anime_step": 16
-                              }, {
-                              "anime_id": "12",
-                              "anime_name": "Golem",
-                              "anime_step": 13
-                              }, {
-                              "anime_id": "13",
-                              "anime_name": "Witch",
-                              "anime_step": 14
-                              }, {
-                              "anime_id": "14",
-                              "anime_name": "Barbarian King",
-                              "anime_step": 16
-                              }, {
-                              "anime_id": "15",
-                              "anime_name": "Archer Queen",
-                              "anime_step": 16
-                              }, {
-                              "anime_id": "16",
-                              "anime_name": "Logo",
-                              "anime_step": 10
-                              }, {
-                              "anime_id": "17",
-                              "anime_name": "P.E.K.K.A",
-                              "anime_step": 15
-                              }]
-                   }, {
-                   "category_id": "1417",
-                   "category_name": "Candy Crush 103",
-                   "category_thumbnail": "1417.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "1",
-                              "anime_name": "Logo",
-                              "anime_step": 19
-                              }, {
-                              "anime_id": "2",
-                              "anime_name": "Tiffi",
-                              "anime_step": 17
-                              }, {
-                              "anime_id": "3",
-                              "anime_name": "Tiffi on train",
-                              "anime_step": 14
-                              }, {
-                              "anime_id": "4",
-                              "anime_name": "Tiffi on Ship",
-                              "anime_step": 15
-                              }, {
-                              "anime_id": "5",
-                              "anime_name": "Mr. Toffee Face",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "6",
-                              "anime_name": "Mr. Toffee",
-                              "anime_step": 17
-                              }, {
-                              "anime_id": "7",
-                              "anime_name": "Candy Mill",
-                              "anime_step": 13
-                              }, {
-                              "anime_id": "8",
-                              "anime_name": "Genie",
-                              "anime_step": 13
-                              }, {
-                              "anime_id": "9",
-                              "anime_name": "Candy Factory",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "10",
-                              "anime_name": "Dragon",
-                              "anime_step": 13
-                              }, {
-                              "anime_id": "11",
-                              "anime_name": "Airplane",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "12",
-                              "anime_name": "Train",
-                              "anime_step": 13
-                              }, {
-                              "anime_id": "13",
-                              "anime_name": "Odus Owl",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "14",
-                              "anime_name": "Tree",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "15",
-                              "anime_name": "Bridge",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "16",
-                              "anime_name": "Jelly Fish",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "17",
-                              "anime_name": "Lollipop Hammer",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "18",
-                              "anime_name": "Lucky Candy",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "19",
-                              "anime_name": "Color Bomb",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "20",
-                              "anime_name": "Booster Wheel",
-                              "anime_step": 13
-                              }]
-                   }, {
-                   "category_id": "1418",
-                   "category_name": "Farm Heroes Saga 162",
-                   "category_thumbnail": "1418.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "1",
-                              "anime_name": "Drop",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "2",
-                              "anime_name": "Bucket",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "3",
-                              "anime_name": "Raspberry",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "4",
-                              "anime_name": "Egg",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "5",
-                              "anime_name": "Apple",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "6",
-                              "anime_name": "Flower",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "7",
-                              "anime_name": "Sun",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "8",
-                              "anime_name": "Onion",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "9",
-                              "anime_name": "Raccoon",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "10",
-                              "anime_name": "Carrot",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "11",
-                              "anime_name": "Strawberry",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "12",
-                              "anime_name": "Pig",
-                              "anime_step": 10
-                              }, {
-                              "anime_id": "13",
-                              "anime_name": "Chicken",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "14",
-                              "anime_name": "Dog",
-                              "anime_step": 11
-                              }]
-                   }, {
                    "category_id": "1419",
-                   "category_name": "Temple Run 139",
+                   "category_name": "Temple Run",
                    "category_thumbnail": "1419.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -1625,9 +829,9 @@
                               }]
                    }, {
                    "category_id": "1420",
-                   "category_name": "GTA 114",
+                   "category_name": "GTA",
                    "category_thumbnail": "1420.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
@@ -1690,182 +894,6 @@
                               "anime_id": "15",
                               "anime_name": "Aircraft",
                               "anime_step": 13
-                              }]
-                   }, {
-                   "category_id": "1421",
-                   "category_name": "Pixel Cartoons 192",
-                   "category_thumbnail": "1421.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "1",
-                              "anime_name": "Apple Bloom",
-                              "anime_step": 14
-                              }, {
-                              "anime_id": "2",
-                              "anime_name": "Bart Simpson",
-                              "anime_step": 10
-                              }, {
-                              "anime_id": "3",
-                              "anime_name": "Bax Bunny",
-                              "anime_step": 10
-                              }, {
-                              "anime_id": "4",
-                              "anime_name": "Cartman",
-                              "anime_step": 10
-                              }, {
-                              "anime_id": "5",
-                              "anime_name": "Duffy Duck",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "6",
-                              "anime_name": "Homer Simpson",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "7",
-                              "anime_name": "Iron Man",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "8",
-                              "anime_name": "Jack Skellington",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "9",
-                              "anime_name": "Kenny",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "10",
-                              "anime_name": "Lumpy Space Princess",
-                              "anime_step": 10
-                              }, {
-                              "anime_id": "11",
-                              "anime_name": "Mario",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "12",
-                              "anime_name": "Mickey Mouse",
-                              "anime_step": 6
-                              }, {
-                              "anime_id": "13",
-                              "anime_name": "Minion",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "14",
-                              "anime_name": "Pacman",
-                              "anime_step": 7
-                              }, {
-                              "anime_id": "15",
-                              "anime_name": "Pikachu",
-                              "anime_step": 10
-                              }, {
-                              "anime_id": "16",
-                              "anime_name": "Rainbow Dash",
-                              "anime_step": 16
-                              }, {
-                              "anime_id": "17",
-                              "anime_name": "Snoopy",
-                              "anime_step": 10
-                              }, {
-                              "anime_id": "18",
-                              "anime_name": "Spongebob",
-                              "anime_step": 15
-                              }, {
-                              "anime_id": "19",
-                              "anime_name": "Yellow Bird",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "20",
-                              "anime_name": "Winnie the Pooh",
-                              "anime_step": 10
-                              }]
-                   }, {
-                   "category_id": "1422",
-                   "category_name": "Pixel Superheroes 204",
-                   "category_thumbnail": "1422.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "1",
-                              "anime_name": "Batman",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "2",
-                              "anime_name": "Spiderman",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "3",
-                              "anime_name": "Superman",
-                              "anime_step": 13
-                              }, {
-                              "anime_id": "4",
-                              "anime_name": "Ironman",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "5",
-                              "anime_name": "Wolverine",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "6",
-                              "anime_name": "Captain America",
-                              "anime_step": 10
-                              }, {
-                              "anime_id": "7",
-                              "anime_name": "Hulk",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "8",
-                              "anime_name": "Thor",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "9",
-                              "anime_name": "Flash",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "10",
-                              "anime_name": "The Green Lantern",
-                              "anime_step": 10
-                              }, {
-                              "anime_id": "11",
-                              "anime_name": "Dead Pool",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "12",
-                              "anime_name": "Wonder Woman",
-                              "anime_step": 12
-                              }, {
-                              "anime_id": "13",
-                              "anime_name": "Catwoman",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "14",
-                              "anime_name": "Green Arrow",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "15",
-                              "anime_name": "Silver Surfer",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "16",
-                              "anime_name": "Robin",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "17",
-                              "anime_name": "Black Widow",
-                              "anime_step": 9
-                              }, {
-                              "anime_id": "18",
-                              "anime_name": "Rocket",
-                              "anime_step": 11
-                              }, {
-                              "anime_id": "19",
-                              "anime_name": "Hawkeye",
-                              "anime_step": 8
-                              }, {
-                              "anime_id": "20",
-                              "anime_name": "Loki",
-                              "anime_step": 12
                               }]
                    }, {
                    "category_id": "1100",
