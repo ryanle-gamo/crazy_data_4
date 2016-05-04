@@ -1,5 +1,114 @@
 {
     "categories": [{
+                   "category_id": "1505",
+                   "category_name": "Pirates",
+                   "category_thumbnail": "1505.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_5/master/draw_for_children/",
+                   "file_extension": "png",
+                   "is_video": "false",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Pirate Flag",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Cannon",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Pirate Skeleton",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Sea Rover",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "One Eye Pirate",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Island",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Ammunition",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Parrot",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Filibuster",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Captains Chest",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Treasures",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Little Pirate",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Jolly Roger",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Walking Dead Pirate",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Pirate Parrot",
+                              "anime_step":18
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "Fairy Pirate",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "Little Pony Pirate",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id": "18",
+                              "anime_name": "Pirate Map",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "19",
+                              "anime_name": "Pirate Coin",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "20",
+                              "anime_name": "Captain",
+                              "anime_step":16
+                              }
+                              ]
+                   },
+                   {
                    "category_id": "1420",
                    "category_name": "GTA",
                    "category_thumbnail": "1420.png",
